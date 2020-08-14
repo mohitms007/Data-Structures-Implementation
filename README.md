@@ -1,2 +1,2 @@
 # DSGO
-All Data Structures and Algorithms are here in JS
+All Data Structures and Algorithms are here in JS And C++.
